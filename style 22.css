@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Outfit';
+}
+
+
+body {
+    background: #F5F5F5;
+    margin: 0;
+}
+
+h1 {
+    width: 1440px;
+    height: 248px;
+    font-size: 64px;
+    background-color: #E64B2F;
+    color: white;
+    padding-top: 80px;
+}
+
+.h2-1 {
+    font-size: 28px;
+    color: #000929;
+    margin-top: -20px;
+    margin-bottom: 40px;
+    margin-left: -1000px;
+    
+}
+
+.h2-2 {
+    font-size: 28px;
+    color: #000929;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: -1100px;
+}
+
+.h6-1 {
+    margin-top: -20px;
+    margin-left: -230px;
+}
+
+.h6-2 {
+    margin-top: -20px;
+    margin-left: -190px;
+}
+
+section {
+    width: 1400px;
+    height: 200px;
+    display: flex;
+    margin-left: 180px;
+}
+
+.box-1 {
+    width: 276px;
+    height: 160px;
+    background: #284D57;
+    border: 2px solid #E5E6EB;
+    border-radius: 16px;
+    margin-right: 20px;
+}
+
+.box-2 {
+    width: 276px;
+    height: 160px;
+    background: #EEECE3;
+    border-radius: 16px;
+    margin-right: 20px;
+}
+
+.box-3 {
+    width: 276px;
+    height: 160px;
+    background: #FFF8F2;
+    border-radius: 16px;
+    margin-right: 20px;
+}
+
+.box-4 {
+    width: 276px;
+    height: 160px;
+    background: #FFFFFF;
+    border: 2px solid #E5E6EB;
+    border-radius: 16px;
+    margin-right: 20px;
+}
+
+.box-5 {
+    width: 240px;
+    height: 88px;
+    background: #F9FAFB;
+    border: 2px solid #E5E6EB;
+    border-radius: 16px 0px 0px 16px;
+}
+
+.box-6 {
+    width: 240px;
+    height: 88px;
+    background: #F4F4F6;
+}
+
+.box-7 {
+    width: 240px;
+    height: 88px;
+    background: #E5E6EB;
+}
+
+.box-8 {
+    width: 240px;
+    height: 88px;
+    background: #D3D5DA;
+}
+
+.box-9 {
+    width: 240px;
+    height: 88px;
+    background: #9EA3AE;
+    border-radius: 0px 16px 16px 0px;
+}
+
+.box-10 {
+    width: 240px;
+    height: 88px;
+    background: #6C727F;
+    border-radius: 16px 0px 0px 16px;
+    margin-top: -40px;
+}
+
+.box-11 {
+    width: 240px;
+    height: 88px;
+    background: #4D5461;
+    margin-top: -40px;
+}
+
+.box-12 {
+    width: 240px;
+    height: 88px;
+    background: #394150;
+    margin-top: -40px;
+}
+
+.box-13 {
+    width: 240px;
+    height: 88px;
+    background: #212936;
+    margin-top: -40px;
+}
+
+.box-14 {
+    width: 240px;
+    height: 88px;
+    background: #0B0A0F;
+    border-radius: 0px 16px 16px 0px;
+    margin-top: -40px;
+}
+
+
+
